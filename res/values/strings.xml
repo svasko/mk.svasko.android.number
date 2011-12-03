@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Pogodi!</string>
+    <string name="app_name">Mak_i_Ruza</string>
+    <color name="myColor">#3399CC</color>
+    <string name="myClickHandler">myClickHandler</string>
+    <string name="myClickHandler1">myClickHandler1</string>    
+    <string name="pogodok">Guess</string>    
+    <string name="nova">New Game</string>    
+</resources>
